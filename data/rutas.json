@@ -1,0 +1,2914 @@
+[
+  {
+    "id": "r1",
+    "origen": "Gazcue",
+    "destino": "Piantini",
+    "tipo": "carro público",
+    "tiempo": 12,
+    "costo": 40
+  },
+  {
+    "id": "r2",
+    "origen": "Gazcue",
+    "destino": "Piantini",
+    "tipo": "guagua",
+    "tiempo": 17,
+    "costo": 35
+  },
+  {
+    "id": "r3",
+    "origen": "Gazcue",
+    "destino": "Piantini",
+    "tipo": "motoconcho",
+    "tiempo": 9,
+    "costo": 94
+  },
+  {
+    "id": "r4",
+    "origen": "Gazcue",
+    "destino": "Piantini",
+    "tipo": "Uber",
+    "tiempo": 11,
+    "costo": 135
+  },
+  {
+    "id": "r5",
+    "origen": "Gazcue",
+    "destino": "Ensanche Naco",
+    "tipo": "carro público",
+    "tiempo": 16,
+    "costo": 40
+  },
+  {
+    "id": "r6",
+    "origen": "Gazcue",
+    "destino": "Ensanche Naco",
+    "tipo": "guagua",
+    "tiempo": 22,
+    "costo": 35
+  },
+  {
+    "id": "r7",
+    "origen": "Gazcue",
+    "destino": "Ensanche Naco",
+    "tipo": "motoconcho",
+    "tiempo": 11,
+    "costo": 115
+  },
+  {
+    "id": "r8",
+    "origen": "Gazcue",
+    "destino": "Ensanche Naco",
+    "tipo": "Uber",
+    "tiempo": 14,
+    "costo": 171
+  },
+  {
+    "id": "r9",
+    "origen": "Gazcue",
+    "destino": "Villa Juana",
+    "tipo": "carro público",
+    "tiempo": 23,
+    "costo": 40
+  },
+  {
+    "id": "r10",
+    "origen": "Gazcue",
+    "destino": "Villa Juana",
+    "tipo": "guagua",
+    "tiempo": 30,
+    "costo": 35
+  },
+  {
+    "id": "r11",
+    "origen": "Gazcue",
+    "destino": "Villa Juana",
+    "tipo": "motoconcho",
+    "tiempo": 16,
+    "costo": 136
+  },
+  {
+    "id": "r12",
+    "origen": "Gazcue",
+    "destino": "Villa Juana",
+    "tipo": "Uber",
+    "tiempo": 20,
+    "costo": 212
+  },
+  {
+    "id": "r13",
+    "origen": "Gazcue",
+    "destino": "Los Mina",
+    "tipo": "carro público",
+    "tiempo": 52,
+    "costo": 40
+  },
+  {
+    "id": "r14",
+    "origen": "Gazcue",
+    "destino": "Los Mina",
+    "tipo": "guagua",
+    "tiempo": 66,
+    "costo": 35
+  },
+  {
+    "id": "r15",
+    "origen": "Gazcue",
+    "destino": "Los Mina",
+    "tipo": "motoconcho",
+    "tiempo": 38,
+    "costo": 226
+  },
+  {
+    "id": "r16",
+    "origen": "Gazcue",
+    "destino": "Los Mina",
+    "tipo": "Uber",
+    "tiempo": 45,
+    "costo": 392
+  },
+  {
+    "id": "r17",
+    "origen": "Gazcue",
+    "destino": "Villa Mella",
+    "tipo": "carro público",
+    "tiempo": 41,
+    "costo": 40
+  },
+  {
+    "id": "r18",
+    "origen": "Gazcue",
+    "destino": "Villa Mella",
+    "tipo": "guagua",
+    "tiempo": 53,
+    "costo": 35
+  },
+  {
+    "id": "r19",
+    "origen": "Gazcue",
+    "destino": "Villa Mella",
+    "tipo": "motoconcho",
+    "tiempo": 30,
+    "costo": 192
+  },
+  {
+    "id": "r20",
+    "origen": "Gazcue",
+    "destino": "Villa Mella",
+    "tipo": "Uber",
+    "tiempo": 35,
+    "costo": 324
+  },
+  {
+    "id": "r21",
+    "origen": "Gazcue",
+    "destino": "Los Prados",
+    "tipo": "carro público",
+    "tiempo": 21,
+    "costo": 40
+  },
+  {
+    "id": "r22",
+    "origen": "Gazcue",
+    "destino": "Los Prados",
+    "tipo": "guagua",
+    "tiempo": 28,
+    "costo": 35
+  },
+  {
+    "id": "r23",
+    "origen": "Gazcue",
+    "destino": "Los Prados",
+    "tipo": "motoconcho",
+    "tiempo": 15,
+    "costo": 130
+  },
+  {
+    "id": "r24",
+    "origen": "Gazcue",
+    "destino": "Los Prados",
+    "tipo": "Uber",
+    "tiempo": 18,
+    "costo": 200
+  },
+  {
+    "id": "r25",
+    "origen": "Gazcue",
+    "destino": "Mirador Norte",
+    "tipo": "carro público",
+    "tiempo": 29,
+    "costo": 40
+  },
+  {
+    "id": "r26",
+    "origen": "Gazcue",
+    "destino": "Mirador Norte",
+    "tipo": "guagua",
+    "tiempo": 38,
+    "costo": 35
+  },
+  {
+    "id": "r27",
+    "origen": "Gazcue",
+    "destino": "Mirador Norte",
+    "tipo": "motoconcho",
+    "tiempo": 21,
+    "costo": 155
+  },
+  {
+    "id": "r28",
+    "origen": "Gazcue",
+    "destino": "Mirador Norte",
+    "tipo": "Uber",
+    "tiempo": 25,
+    "costo": 250
+  },
+  {
+    "id": "r29",
+    "origen": "Gazcue",
+    "destino": "Bella Vista",
+    "tipo": "carro público",
+    "tiempo": 23,
+    "costo": 40
+  },
+  {
+    "id": "r30",
+    "origen": "Gazcue",
+    "destino": "Bella Vista",
+    "tipo": "guagua",
+    "tiempo": 30,
+    "costo": 35
+  },
+  {
+    "id": "r31",
+    "origen": "Gazcue",
+    "destino": "Bella Vista",
+    "tipo": "motoconcho",
+    "tiempo": 16,
+    "costo": 136
+  },
+  {
+    "id": "r32",
+    "origen": "Gazcue",
+    "destino": "Bella Vista",
+    "tipo": "Uber",
+    "tiempo": 20,
+    "costo": 212
+  },
+  {
+    "id": "r33",
+    "origen": "Gazcue",
+    "destino": "Villa Francisca",
+    "tipo": "carro público",
+    "tiempo": 12,
+    "costo": 40
+  },
+  {
+    "id": "r34",
+    "origen": "Gazcue",
+    "destino": "Villa Francisca",
+    "tipo": "guagua",
+    "tiempo": 17,
+    "costo": 35
+  },
+  {
+    "id": "r35",
+    "origen": "Gazcue",
+    "destino": "Villa Francisca",
+    "tipo": "motoconcho",
+    "tiempo": 9,
+    "costo": 94
+  },
+  {
+    "id": "r36",
+    "origen": "Gazcue",
+    "destino": "Villa Francisca",
+    "tipo": "Uber",
+    "tiempo": 11,
+    "costo": 135
+  },
+  {
+    "id": "r37",
+    "origen": "Gazcue",
+    "destino": "Villa María",
+    "tipo": "carro público",
+    "tiempo": 16,
+    "costo": 40
+  },
+  {
+    "id": "r38",
+    "origen": "Gazcue",
+    "destino": "Villa María",
+    "tipo": "guagua",
+    "tiempo": 22,
+    "costo": 35
+  },
+  {
+    "id": "r39",
+    "origen": "Gazcue",
+    "destino": "Villa María",
+    "tipo": "motoconcho",
+    "tiempo": 11,
+    "costo": 115
+  },
+  {
+    "id": "r40",
+    "origen": "Gazcue",
+    "destino": "Villa María",
+    "tipo": "Uber",
+    "tiempo": 14,
+    "costo": 171
+  },
+  {
+    "id": "r41",
+    "origen": "Gazcue",
+    "destino": "Villa Duarte",
+    "tipo": "carro público",
+    "tiempo": 50,
+    "costo": 40
+  },
+  {
+    "id": "r42",
+    "origen": "Gazcue",
+    "destino": "Villa Duarte",
+    "tipo": "guagua",
+    "tiempo": 65,
+    "costo": 35
+  },
+  {
+    "id": "r43",
+    "origen": "Gazcue",
+    "destino": "Villa Duarte",
+    "tipo": "motoconcho",
+    "tiempo": 37,
+    "costo": 221
+  },
+  {
+    "id": "r44",
+    "origen": "Gazcue",
+    "destino": "Villa Duarte",
+    "tipo": "Uber",
+    "tiempo": 44,
+    "costo": 383
+  },
+  {
+    "id": "r45",
+    "origen": "Gazcue",
+    "destino": "Guachupita",
+    "tipo": "carro público",
+    "tiempo": 12,
+    "costo": 40
+  },
+  {
+    "id": "r46",
+    "origen": "Gazcue",
+    "destino": "Guachupita",
+    "tipo": "guagua",
+    "tiempo": 17,
+    "costo": 35
+  },
+  {
+    "id": "r47",
+    "origen": "Gazcue",
+    "destino": "Guachupita",
+    "tipo": "motoconcho",
+    "tiempo": 9,
+    "costo": 94
+  },
+  {
+    "id": "r48",
+    "origen": "Gazcue",
+    "destino": "Guachupita",
+    "tipo": "Uber",
+    "tiempo": 11,
+    "costo": 135
+  },
+  {
+    "id": "r49",
+    "origen": "Gazcue",
+    "destino": "Los Mameyes",
+    "tipo": "carro público",
+    "tiempo": 46,
+    "costo": 40
+  },
+  {
+    "id": "r50",
+    "origen": "Gazcue",
+    "destino": "Los Mameyes",
+    "tipo": "guagua",
+    "tiempo": 59,
+    "costo": 35
+  },
+  {
+    "id": "r51",
+    "origen": "Gazcue",
+    "destino": "Los Mameyes",
+    "tipo": "motoconcho",
+    "tiempo": 34,
+    "costo": 207
+  },
+  {
+    "id": "r52",
+    "origen": "Gazcue",
+    "destino": "Los Mameyes",
+    "tipo": "Uber",
+    "tiempo": 40,
+    "costo": 355
+  },
+  {
+    "id": "r53",
+    "origen": "Piantini",
+    "destino": "Ensanche Naco",
+    "tipo": "carro público",
+    "tiempo": 12,
+    "costo": 40
+  },
+  {
+    "id": "r54",
+    "origen": "Piantini",
+    "destino": "Ensanche Naco",
+    "tipo": "guagua",
+    "tiempo": 17,
+    "costo": 35
+  },
+  {
+    "id": "r55",
+    "origen": "Piantini",
+    "destino": "Ensanche Naco",
+    "tipo": "motoconcho",
+    "tiempo": 9,
+    "costo": 94
+  },
+  {
+    "id": "r56",
+    "origen": "Piantini",
+    "destino": "Ensanche Naco",
+    "tipo": "Uber",
+    "tiempo": 11,
+    "costo": 135
+  },
+  {
+    "id": "r57",
+    "origen": "Piantini",
+    "destino": "Villa Juana",
+    "tipo": "carro público",
+    "tiempo": 30,
+    "costo": 40
+  },
+  {
+    "id": "r58",
+    "origen": "Piantini",
+    "destino": "Villa Juana",
+    "tipo": "guagua",
+    "tiempo": 40,
+    "costo": 35
+  },
+  {
+    "id": "r59",
+    "origen": "Piantini",
+    "destino": "Villa Juana",
+    "tipo": "motoconcho",
+    "tiempo": 22,
+    "costo": 159
+  },
+  {
+    "id": "r60",
+    "origen": "Piantini",
+    "destino": "Villa Juana",
+    "tipo": "Uber",
+    "tiempo": 26,
+    "costo": 258
+  },
+  {
+    "id": "r61",
+    "origen": "Piantini",
+    "destino": "Los Mina",
+    "tipo": "carro público",
+    "tiempo": 45,
+    "costo": 40
+  },
+  {
+    "id": "r62",
+    "origen": "Piantini",
+    "destino": "Los Mina",
+    "tipo": "guagua",
+    "tiempo": 58,
+    "costo": 35
+  },
+  {
+    "id": "r63",
+    "origen": "Piantini",
+    "destino": "Los Mina",
+    "tipo": "motoconcho",
+    "tiempo": 33,
+    "costo": 205
+  },
+  {
+    "id": "r64",
+    "origen": "Piantini",
+    "destino": "Los Mina",
+    "tipo": "Uber",
+    "tiempo": 39,
+    "costo": 350
+  },
+  {
+    "id": "r65",
+    "origen": "Piantini",
+    "destino": "Villa Mella",
+    "tipo": "carro público",
+    "tiempo": 34,
+    "costo": 40
+  },
+  {
+    "id": "r66",
+    "origen": "Piantini",
+    "destino": "Villa Mella",
+    "tipo": "guagua",
+    "tiempo": 44,
+    "costo": 35
+  },
+  {
+    "id": "r67",
+    "origen": "Piantini",
+    "destino": "Villa Mella",
+    "tipo": "motoconcho",
+    "tiempo": 25,
+    "costo": 170
+  },
+  {
+    "id": "r68",
+    "origen": "Piantini",
+    "destino": "Villa Mella",
+    "tipo": "Uber",
+    "tiempo": 29,
+    "costo": 280
+  },
+  {
+    "id": "r69",
+    "origen": "Piantini",
+    "destino": "Los Prados",
+    "tipo": "carro público",
+    "tiempo": 23,
+    "costo": 40
+  },
+  {
+    "id": "r70",
+    "origen": "Piantini",
+    "destino": "Los Prados",
+    "tipo": "guagua",
+    "tiempo": 30,
+    "costo": 35
+  },
+  {
+    "id": "r71",
+    "origen": "Piantini",
+    "destino": "Los Prados",
+    "tipo": "motoconcho",
+    "tiempo": 16,
+    "costo": 136
+  },
+  {
+    "id": "r72",
+    "origen": "Piantini",
+    "destino": "Los Prados",
+    "tipo": "Uber",
+    "tiempo": 20,
+    "costo": 212
+  },
+  {
+    "id": "r73",
+    "origen": "Piantini",
+    "destino": "Mirador Norte",
+    "tipo": "carro público",
+    "tiempo": 30,
+    "costo": 40
+  },
+  {
+    "id": "r74",
+    "origen": "Piantini",
+    "destino": "Mirador Norte",
+    "tipo": "guagua",
+    "tiempo": 40,
+    "costo": 35
+  },
+  {
+    "id": "r75",
+    "origen": "Piantini",
+    "destino": "Mirador Norte",
+    "tipo": "motoconcho",
+    "tiempo": 22,
+    "costo": 159
+  },
+  {
+    "id": "r76",
+    "origen": "Piantini",
+    "destino": "Mirador Norte",
+    "tipo": "Uber",
+    "tiempo": 26,
+    "costo": 258
+  },
+  {
+    "id": "r77",
+    "origen": "Piantini",
+    "destino": "Bella Vista",
+    "tipo": "carro público",
+    "tiempo": 21,
+    "costo": 40
+  },
+  {
+    "id": "r78",
+    "origen": "Piantini",
+    "destino": "Bella Vista",
+    "tipo": "guagua",
+    "tiempo": 28,
+    "costo": 35
+  },
+  {
+    "id": "r79",
+    "origen": "Piantini",
+    "destino": "Bella Vista",
+    "tipo": "motoconcho",
+    "tiempo": 15,
+    "costo": 130
+  },
+  {
+    "id": "r80",
+    "origen": "Piantini",
+    "destino": "Bella Vista",
+    "tipo": "Uber",
+    "tiempo": 18,
+    "costo": 200
+  },
+  {
+    "id": "r81",
+    "origen": "Piantini",
+    "destino": "Villa Francisca",
+    "tipo": "carro público",
+    "tiempo": 21,
+    "costo": 40
+  },
+  {
+    "id": "r82",
+    "origen": "Piantini",
+    "destino": "Villa Francisca",
+    "tipo": "guagua",
+    "tiempo": 28,
+    "costo": 35
+  },
+  {
+    "id": "r83",
+    "origen": "Piantini",
+    "destino": "Villa Francisca",
+    "tipo": "motoconcho",
+    "tiempo": 15,
+    "costo": 130
+  },
+  {
+    "id": "r84",
+    "origen": "Piantini",
+    "destino": "Villa Francisca",
+    "tipo": "Uber",
+    "tiempo": 18,
+    "costo": 200
+  },
+  {
+    "id": "r85",
+    "origen": "Piantini",
+    "destino": "Villa María",
+    "tipo": "carro público",
+    "tiempo": 23,
+    "costo": 40
+  },
+  {
+    "id": "r86",
+    "origen": "Piantini",
+    "destino": "Villa María",
+    "tipo": "guagua",
+    "tiempo": 30,
+    "costo": 35
+  },
+  {
+    "id": "r87",
+    "origen": "Piantini",
+    "destino": "Villa María",
+    "tipo": "motoconcho",
+    "tiempo": 16,
+    "costo": 136
+  },
+  {
+    "id": "r88",
+    "origen": "Piantini",
+    "destino": "Villa María",
+    "tipo": "Uber",
+    "tiempo": 20,
+    "costo": 212
+  },
+  {
+    "id": "r89",
+    "origen": "Piantini",
+    "destino": "Villa Duarte",
+    "tipo": "carro público",
+    "tiempo": 45,
+    "costo": 40
+  },
+  {
+    "id": "r90",
+    "origen": "Piantini",
+    "destino": "Villa Duarte",
+    "tipo": "guagua",
+    "tiempo": 58,
+    "costo": 35
+  },
+  {
+    "id": "r91",
+    "origen": "Piantini",
+    "destino": "Villa Duarte",
+    "tipo": "motoconcho",
+    "tiempo": 33,
+    "costo": 205
+  },
+  {
+    "id": "r92",
+    "origen": "Piantini",
+    "destino": "Villa Duarte",
+    "tipo": "Uber",
+    "tiempo": 39,
+    "costo": 350
+  },
+  {
+    "id": "r93",
+    "origen": "Piantini",
+    "destino": "Guachupita",
+    "tipo": "carro público",
+    "tiempo": 16,
+    "costo": 40
+  },
+  {
+    "id": "r94",
+    "origen": "Piantini",
+    "destino": "Guachupita",
+    "tipo": "guagua",
+    "tiempo": 22,
+    "costo": 35
+  },
+  {
+    "id": "r95",
+    "origen": "Piantini",
+    "destino": "Guachupita",
+    "tipo": "motoconcho",
+    "tiempo": 11,
+    "costo": 115
+  },
+  {
+    "id": "r96",
+    "origen": "Piantini",
+    "destino": "Guachupita",
+    "tipo": "Uber",
+    "tiempo": 14,
+    "costo": 171
+  },
+  {
+    "id": "r97",
+    "origen": "Piantini",
+    "destino": "Los Mameyes",
+    "tipo": "carro público",
+    "tiempo": 38,
+    "costo": 40
+  },
+  {
+    "id": "r98",
+    "origen": "Piantini",
+    "destino": "Los Mameyes",
+    "tipo": "guagua",
+    "tiempo": 49,
+    "costo": 35
+  },
+  {
+    "id": "r99",
+    "origen": "Piantini",
+    "destino": "Los Mameyes",
+    "tipo": "motoconcho",
+    "tiempo": 28,
+    "costo": 183
+  },
+  {
+    "id": "r100",
+    "origen": "Piantini",
+    "destino": "Los Mameyes",
+    "tipo": "Uber",
+    "tiempo": 33,
+    "costo": 306
+  },
+  {
+    "id": "r101",
+    "origen": "Ensanche Naco",
+    "destino": "Villa Juana",
+    "tipo": "carro público",
+    "tiempo": 34,
+    "costo": 40
+  },
+  {
+    "id": "r102",
+    "origen": "Ensanche Naco",
+    "destino": "Villa Juana",
+    "tipo": "guagua",
+    "tiempo": 44,
+    "costo": 35
+  },
+  {
+    "id": "r103",
+    "origen": "Ensanche Naco",
+    "destino": "Villa Juana",
+    "tipo": "motoconcho",
+    "tiempo": 25,
+    "costo": 170
+  },
+  {
+    "id": "r104",
+    "origen": "Ensanche Naco",
+    "destino": "Villa Juana",
+    "tipo": "Uber",
+    "tiempo": 29,
+    "costo": 280
+  },
+  {
+    "id": "r105",
+    "origen": "Ensanche Naco",
+    "destino": "Los Mina",
+    "tipo": "carro público",
+    "tiempo": 50,
+    "costo": 40
+  },
+  {
+    "id": "r106",
+    "origen": "Ensanche Naco",
+    "destino": "Los Mina",
+    "tipo": "guagua",
+    "tiempo": 65,
+    "costo": 35
+  },
+  {
+    "id": "r107",
+    "origen": "Ensanche Naco",
+    "destino": "Los Mina",
+    "tipo": "motoconcho",
+    "tiempo": 37,
+    "costo": 221
+  },
+  {
+    "id": "r108",
+    "origen": "Ensanche Naco",
+    "destino": "Los Mina",
+    "tipo": "Uber",
+    "tiempo": 44,
+    "costo": 383
+  },
+  {
+    "id": "r109",
+    "origen": "Ensanche Naco",
+    "destino": "Villa Mella",
+    "tipo": "carro público",
+    "tiempo": 39,
+    "costo": 40
+  },
+  {
+    "id": "r110",
+    "origen": "Ensanche Naco",
+    "destino": "Villa Mella",
+    "tipo": "guagua",
+    "tiempo": 50,
+    "costo": 35
+  },
+  {
+    "id": "r111",
+    "origen": "Ensanche Naco",
+    "destino": "Villa Mella",
+    "tipo": "motoconcho",
+    "tiempo": 28,
+    "costo": 186
+  },
+  {
+    "id": "r112",
+    "origen": "Ensanche Naco",
+    "destino": "Villa Mella",
+    "tipo": "Uber",
+    "tiempo": 34,
+    "costo": 312
+  },
+  {
+    "id": "r113",
+    "origen": "Ensanche Naco",
+    "destino": "Los Prados",
+    "tipo": "carro público",
+    "tiempo": 30,
+    "costo": 40
+  },
+  {
+    "id": "r114",
+    "origen": "Ensanche Naco",
+    "destino": "Los Prados",
+    "tipo": "guagua",
+    "tiempo": 40,
+    "costo": 35
+  },
+  {
+    "id": "r115",
+    "origen": "Ensanche Naco",
+    "destino": "Los Prados",
+    "tipo": "motoconcho",
+    "tiempo": 22,
+    "costo": 159
+  },
+  {
+    "id": "r116",
+    "origen": "Ensanche Naco",
+    "destino": "Los Prados",
+    "tipo": "Uber",
+    "tiempo": 26,
+    "costo": 258
+  },
+  {
+    "id": "r117",
+    "origen": "Ensanche Naco",
+    "destino": "Mirador Norte",
+    "tipo": "carro público",
+    "tiempo": 38,
+    "costo": 40
+  },
+  {
+    "id": "r118",
+    "origen": "Ensanche Naco",
+    "destino": "Mirador Norte",
+    "tipo": "guagua",
+    "tiempo": 49,
+    "costo": 35
+  },
+  {
+    "id": "r119",
+    "origen": "Ensanche Naco",
+    "destino": "Mirador Norte",
+    "tipo": "motoconcho",
+    "tiempo": 28,
+    "costo": 183
+  },
+  {
+    "id": "r120",
+    "origen": "Ensanche Naco",
+    "destino": "Mirador Norte",
+    "tipo": "Uber",
+    "tiempo": 33,
+    "costo": 306
+  },
+  {
+    "id": "r121",
+    "origen": "Ensanche Naco",
+    "destino": "Bella Vista",
+    "tipo": "carro público",
+    "tiempo": 29,
+    "costo": 40
+  },
+  {
+    "id": "r122",
+    "origen": "Ensanche Naco",
+    "destino": "Bella Vista",
+    "tipo": "guagua",
+    "tiempo": 38,
+    "costo": 35
+  },
+  {
+    "id": "r123",
+    "origen": "Ensanche Naco",
+    "destino": "Bella Vista",
+    "tipo": "motoconcho",
+    "tiempo": 21,
+    "costo": 155
+  },
+  {
+    "id": "r124",
+    "origen": "Ensanche Naco",
+    "destino": "Bella Vista",
+    "tipo": "Uber",
+    "tiempo": 25,
+    "costo": 250
+  },
+  {
+    "id": "r125",
+    "origen": "Ensanche Naco",
+    "destino": "Villa Francisca",
+    "tipo": "carro público",
+    "tiempo": 23,
+    "costo": 40
+  },
+  {
+    "id": "r126",
+    "origen": "Ensanche Naco",
+    "destino": "Villa Francisca",
+    "tipo": "guagua",
+    "tiempo": 30,
+    "costo": 35
+  },
+  {
+    "id": "r127",
+    "origen": "Ensanche Naco",
+    "destino": "Villa Francisca",
+    "tipo": "motoconcho",
+    "tiempo": 16,
+    "costo": 136
+  },
+  {
+    "id": "r128",
+    "origen": "Ensanche Naco",
+    "destino": "Villa Francisca",
+    "tipo": "Uber",
+    "tiempo": 20,
+    "costo": 212
+  },
+  {
+    "id": "r129",
+    "origen": "Ensanche Naco",
+    "destino": "Villa María",
+    "tipo": "carro público",
+    "tiempo": 28,
+    "costo": 40
+  },
+  {
+    "id": "r130",
+    "origen": "Ensanche Naco",
+    "destino": "Villa María",
+    "tipo": "guagua",
+    "tiempo": 36,
+    "costo": 35
+  },
+  {
+    "id": "r131",
+    "origen": "Ensanche Naco",
+    "destino": "Villa María",
+    "tipo": "motoconcho",
+    "tiempo": 20,
+    "costo": 151
+  },
+  {
+    "id": "r132",
+    "origen": "Ensanche Naco",
+    "destino": "Villa María",
+    "tipo": "Uber",
+    "tiempo": 24,
+    "costo": 241
+  },
+  {
+    "id": "r133",
+    "origen": "Ensanche Naco",
+    "destino": "Villa Duarte",
+    "tipo": "carro público",
+    "tiempo": 52,
+    "costo": 40
+  },
+  {
+    "id": "r134",
+    "origen": "Ensanche Naco",
+    "destino": "Villa Duarte",
+    "tipo": "guagua",
+    "tiempo": 66,
+    "costo": 35
+  },
+  {
+    "id": "r135",
+    "origen": "Ensanche Naco",
+    "destino": "Villa Duarte",
+    "tipo": "motoconcho",
+    "tiempo": 38,
+    "costo": 226
+  },
+  {
+    "id": "r136",
+    "origen": "Ensanche Naco",
+    "destino": "Villa Duarte",
+    "tipo": "Uber",
+    "tiempo": 45,
+    "costo": 392
+  },
+  {
+    "id": "r137",
+    "origen": "Ensanche Naco",
+    "destino": "Guachupita",
+    "tipo": "carro público",
+    "tiempo": 23,
+    "costo": 40
+  },
+  {
+    "id": "r138",
+    "origen": "Ensanche Naco",
+    "destino": "Guachupita",
+    "tipo": "guagua",
+    "tiempo": 30,
+    "costo": 35
+  },
+  {
+    "id": "r139",
+    "origen": "Ensanche Naco",
+    "destino": "Guachupita",
+    "tipo": "motoconcho",
+    "tiempo": 16,
+    "costo": 136
+  },
+  {
+    "id": "r140",
+    "origen": "Ensanche Naco",
+    "destino": "Guachupita",
+    "tipo": "Uber",
+    "tiempo": 20,
+    "costo": 212
+  },
+  {
+    "id": "r141",
+    "origen": "Ensanche Naco",
+    "destino": "Los Mameyes",
+    "tipo": "carro público",
+    "tiempo": 41,
+    "costo": 40
+  },
+  {
+    "id": "r142",
+    "origen": "Ensanche Naco",
+    "destino": "Los Mameyes",
+    "tipo": "guagua",
+    "tiempo": 53,
+    "costo": 35
+  },
+  {
+    "id": "r143",
+    "origen": "Ensanche Naco",
+    "destino": "Los Mameyes",
+    "tipo": "motoconcho",
+    "tiempo": 30,
+    "costo": 192
+  },
+  {
+    "id": "r144",
+    "origen": "Ensanche Naco",
+    "destino": "Los Mameyes",
+    "tipo": "Uber",
+    "tiempo": 35,
+    "costo": 324
+  },
+  {
+    "id": "r145",
+    "origen": "Villa Juana",
+    "destino": "Los Mina",
+    "tipo": "carro público",
+    "tiempo": 63,
+    "costo": 40
+  },
+  {
+    "id": "r146",
+    "origen": "Villa Juana",
+    "destino": "Los Mina",
+    "tipo": "guagua",
+    "tiempo": 81,
+    "costo": 35
+  },
+  {
+    "id": "r147",
+    "origen": "Villa Juana",
+    "destino": "Los Mina",
+    "tipo": "motoconcho",
+    "tiempo": 47,
+    "costo": 262
+  },
+  {
+    "id": "r148",
+    "origen": "Villa Juana",
+    "destino": "Los Mina",
+    "tipo": "Uber",
+    "tiempo": 55,
+    "costo": 464
+  },
+  {
+    "id": "r149",
+    "origen": "Villa Juana",
+    "destino": "Villa Mella",
+    "tipo": "carro público",
+    "tiempo": 54,
+    "costo": 40
+  },
+  {
+    "id": "r150",
+    "origen": "Villa Juana",
+    "destino": "Villa Mella",
+    "tipo": "guagua",
+    "tiempo": 69,
+    "costo": 35
+  },
+  {
+    "id": "r151",
+    "origen": "Villa Juana",
+    "destino": "Villa Mella",
+    "tipo": "motoconcho",
+    "tiempo": 39,
+    "costo": 232
+  },
+  {
+    "id": "r152",
+    "origen": "Villa Juana",
+    "destino": "Villa Mella",
+    "tipo": "Uber",
+    "tiempo": 47,
+    "costo": 404
+  },
+  {
+    "id": "r153",
+    "origen": "Villa Juana",
+    "destino": "Los Prados",
+    "tipo": "carro público",
+    "tiempo": 23,
+    "costo": 40
+  },
+  {
+    "id": "r154",
+    "origen": "Villa Juana",
+    "destino": "Los Prados",
+    "tipo": "guagua",
+    "tiempo": 30,
+    "costo": 35
+  },
+  {
+    "id": "r155",
+    "origen": "Villa Juana",
+    "destino": "Los Prados",
+    "tipo": "motoconcho",
+    "tiempo": 16,
+    "costo": 136
+  },
+  {
+    "id": "r156",
+    "origen": "Villa Juana",
+    "destino": "Los Prados",
+    "tipo": "Uber",
+    "tiempo": 20,
+    "costo": 212
+  },
+  {
+    "id": "r157",
+    "origen": "Villa Juana",
+    "destino": "Mirador Norte",
+    "tipo": "carro público",
+    "tiempo": 28,
+    "costo": 40
+  },
+  {
+    "id": "r158",
+    "origen": "Villa Juana",
+    "destino": "Mirador Norte",
+    "tipo": "guagua",
+    "tiempo": 36,
+    "costo": 35
+  },
+  {
+    "id": "r159",
+    "origen": "Villa Juana",
+    "destino": "Mirador Norte",
+    "tipo": "motoconcho",
+    "tiempo": 20,
+    "costo": 151
+  },
+  {
+    "id": "r160",
+    "origen": "Villa Juana",
+    "destino": "Mirador Norte",
+    "tipo": "Uber",
+    "tiempo": 24,
+    "costo": 241
+  },
+  {
+    "id": "r161",
+    "origen": "Villa Juana",
+    "destino": "Bella Vista",
+    "tipo": "carro público",
+    "tiempo": 30,
+    "costo": 40
+  },
+  {
+    "id": "r162",
+    "origen": "Villa Juana",
+    "destino": "Bella Vista",
+    "tipo": "guagua",
+    "tiempo": 40,
+    "costo": 35
+  },
+  {
+    "id": "r163",
+    "origen": "Villa Juana",
+    "destino": "Bella Vista",
+    "tipo": "motoconcho",
+    "tiempo": 22,
+    "costo": 159
+  },
+  {
+    "id": "r164",
+    "origen": "Villa Juana",
+    "destino": "Bella Vista",
+    "tipo": "Uber",
+    "tiempo": 26,
+    "costo": 258
+  },
+  {
+    "id": "r165",
+    "origen": "Villa Juana",
+    "destino": "Villa Francisca",
+    "tipo": "carro público",
+    "tiempo": 16,
+    "costo": 40
+  },
+  {
+    "id": "r166",
+    "origen": "Villa Juana",
+    "destino": "Villa Francisca",
+    "tipo": "guagua",
+    "tiempo": 22,
+    "costo": 35
+  },
+  {
+    "id": "r167",
+    "origen": "Villa Juana",
+    "destino": "Villa Francisca",
+    "tipo": "motoconcho",
+    "tiempo": 11,
+    "costo": 115
+  },
+  {
+    "id": "r168",
+    "origen": "Villa Juana",
+    "destino": "Villa Francisca",
+    "tipo": "Uber",
+    "tiempo": 14,
+    "costo": 171
+  },
+  {
+    "id": "r169",
+    "origen": "Villa Juana",
+    "destino": "Villa María",
+    "tipo": "carro público",
+    "tiempo": 12,
+    "costo": 40
+  },
+  {
+    "id": "r170",
+    "origen": "Villa Juana",
+    "destino": "Villa María",
+    "tipo": "guagua",
+    "tiempo": 17,
+    "costo": 35
+  },
+  {
+    "id": "r171",
+    "origen": "Villa Juana",
+    "destino": "Villa María",
+    "tipo": "motoconcho",
+    "tiempo": 9,
+    "costo": 94
+  },
+  {
+    "id": "r172",
+    "origen": "Villa Juana",
+    "destino": "Villa María",
+    "tipo": "Uber",
+    "tiempo": 11,
+    "costo": 135
+  },
+  {
+    "id": "r173",
+    "origen": "Villa Juana",
+    "destino": "Villa Duarte",
+    "tipo": "carro público",
+    "tiempo": 59,
+    "costo": 40
+  },
+  {
+    "id": "r174",
+    "origen": "Villa Juana",
+    "destino": "Villa Duarte",
+    "tipo": "guagua",
+    "tiempo": 75,
+    "costo": 35
+  },
+  {
+    "id": "r175",
+    "origen": "Villa Juana",
+    "destino": "Villa Duarte",
+    "tipo": "motoconcho",
+    "tiempo": 43,
+    "costo": 248
+  },
+  {
+    "id": "r176",
+    "origen": "Villa Juana",
+    "destino": "Villa Duarte",
+    "tipo": "Uber",
+    "tiempo": 51,
+    "costo": 435
+  },
+  {
+    "id": "r177",
+    "origen": "Villa Juana",
+    "destino": "Guachupita",
+    "tipo": "carro público",
+    "tiempo": 21,
+    "costo": 40
+  },
+  {
+    "id": "r178",
+    "origen": "Villa Juana",
+    "destino": "Guachupita",
+    "tipo": "guagua",
+    "tiempo": 28,
+    "costo": 35
+  },
+  {
+    "id": "r179",
+    "origen": "Villa Juana",
+    "destino": "Guachupita",
+    "tipo": "motoconcho",
+    "tiempo": 15,
+    "costo": 130
+  },
+  {
+    "id": "r180",
+    "origen": "Villa Juana",
+    "destino": "Guachupita",
+    "tipo": "Uber",
+    "tiempo": 18,
+    "costo": 200
+  },
+  {
+    "id": "r181",
+    "origen": "Villa Juana",
+    "destino": "Los Mameyes",
+    "tipo": "carro público",
+    "tiempo": 61,
+    "costo": 40
+  },
+  {
+    "id": "r182",
+    "origen": "Villa Juana",
+    "destino": "Los Mameyes",
+    "tipo": "guagua",
+    "tiempo": 78,
+    "costo": 35
+  },
+  {
+    "id": "r183",
+    "origen": "Villa Juana",
+    "destino": "Los Mameyes",
+    "tipo": "motoconcho",
+    "tiempo": 45,
+    "costo": 255
+  },
+  {
+    "id": "r184",
+    "origen": "Villa Juana",
+    "destino": "Los Mameyes",
+    "tipo": "Uber",
+    "tiempo": 53,
+    "costo": 450
+  },
+  {
+    "id": "r185",
+    "origen": "Los Mina",
+    "destino": "Villa Mella",
+    "tipo": "carro público",
+    "tiempo": 16,
+    "costo": 40
+  },
+  {
+    "id": "r186",
+    "origen": "Los Mina",
+    "destino": "Villa Mella",
+    "tipo": "guagua",
+    "tiempo": 22,
+    "costo": 35
+  },
+  {
+    "id": "r187",
+    "origen": "Los Mina",
+    "destino": "Villa Mella",
+    "tipo": "motoconcho",
+    "tiempo": 11,
+    "costo": 115
+  },
+  {
+    "id": "r188",
+    "origen": "Los Mina",
+    "destino": "Villa Mella",
+    "tipo": "Uber",
+    "tiempo": 14,
+    "costo": 171
+  },
+  {
+    "id": "r189",
+    "origen": "Los Mina",
+    "destino": "Los Prados",
+    "tipo": "carro público",
+    "tiempo": 46,
+    "costo": 40
+  },
+  {
+    "id": "r190",
+    "origen": "Los Mina",
+    "destino": "Los Prados",
+    "tipo": "guagua",
+    "tiempo": 59,
+    "costo": 35
+  },
+  {
+    "id": "r191",
+    "origen": "Los Mina",
+    "destino": "Los Prados",
+    "tipo": "motoconcho",
+    "tiempo": 34,
+    "costo": 207
+  },
+  {
+    "id": "r192",
+    "origen": "Los Mina",
+    "destino": "Los Prados",
+    "tipo": "Uber",
+    "tiempo": 40,
+    "costo": 355
+  },
+  {
+    "id": "r193",
+    "origen": "Los Mina",
+    "destino": "Mirador Norte",
+    "tipo": "carro público",
+    "tiempo": 45,
+    "costo": 40
+  },
+  {
+    "id": "r194",
+    "origen": "Los Mina",
+    "destino": "Mirador Norte",
+    "tipo": "guagua",
+    "tiempo": 58,
+    "costo": 35
+  },
+  {
+    "id": "r195",
+    "origen": "Los Mina",
+    "destino": "Mirador Norte",
+    "tipo": "motoconcho",
+    "tiempo": 33,
+    "costo": 205
+  },
+  {
+    "id": "r196",
+    "origen": "Los Mina",
+    "destino": "Mirador Norte",
+    "tipo": "Uber",
+    "tiempo": 39,
+    "costo": 350
+  },
+  {
+    "id": "r197",
+    "origen": "Los Mina",
+    "destino": "Bella Vista",
+    "tipo": "carro público",
+    "tiempo": 38,
+    "costo": 40
+  },
+  {
+    "id": "r198",
+    "origen": "Los Mina",
+    "destino": "Bella Vista",
+    "tipo": "guagua",
+    "tiempo": 49,
+    "costo": 35
+  },
+  {
+    "id": "r199",
+    "origen": "Los Mina",
+    "destino": "Bella Vista",
+    "tipo": "motoconcho",
+    "tiempo": 28,
+    "costo": 183
+  },
+  {
+    "id": "r200",
+    "origen": "Los Mina",
+    "destino": "Bella Vista",
+    "tipo": "Uber",
+    "tiempo": 33,
+    "costo": 306
+  },
+  {
+    "id": "r201",
+    "origen": "Los Mina",
+    "destino": "Villa Francisca",
+    "tipo": "carro público",
+    "tiempo": 59,
+    "costo": 40
+  },
+  {
+    "id": "r202",
+    "origen": "Los Mina",
+    "destino": "Villa Francisca",
+    "tipo": "guagua",
+    "tiempo": 75,
+    "costo": 35
+  },
+  {
+    "id": "r203",
+    "origen": "Los Mina",
+    "destino": "Villa Francisca",
+    "tipo": "motoconcho",
+    "tiempo": 43,
+    "costo": 248
+  },
+  {
+    "id": "r204",
+    "origen": "Los Mina",
+    "destino": "Villa Francisca",
+    "tipo": "Uber",
+    "tiempo": 51,
+    "costo": 435
+  },
+  {
+    "id": "r205",
+    "origen": "Los Mina",
+    "destino": "Villa María",
+    "tipo": "carro público",
+    "tiempo": 56,
+    "costo": 40
+  },
+  {
+    "id": "r206",
+    "origen": "Los Mina",
+    "destino": "Villa María",
+    "tipo": "guagua",
+    "tiempo": 71,
+    "costo": 35
+  },
+  {
+    "id": "r207",
+    "origen": "Los Mina",
+    "destino": "Villa María",
+    "tipo": "motoconcho",
+    "tiempo": 41,
+    "costo": 238
+  },
+  {
+    "id": "r208",
+    "origen": "Los Mina",
+    "destino": "Villa María",
+    "tipo": "Uber",
+    "tiempo": 48,
+    "costo": 416
+  },
+  {
+    "id": "r209",
+    "origen": "Los Mina",
+    "destino": "Villa Duarte",
+    "tipo": "carro público",
+    "tiempo": 16,
+    "costo": 40
+  },
+  {
+    "id": "r210",
+    "origen": "Los Mina",
+    "destino": "Villa Duarte",
+    "tipo": "guagua",
+    "tiempo": 22,
+    "costo": 35
+  },
+  {
+    "id": "r211",
+    "origen": "Los Mina",
+    "destino": "Villa Duarte",
+    "tipo": "motoconcho",
+    "tiempo": 11,
+    "costo": 115
+  },
+  {
+    "id": "r212",
+    "origen": "Los Mina",
+    "destino": "Villa Duarte",
+    "tipo": "Uber",
+    "tiempo": 14,
+    "costo": 171
+  },
+  {
+    "id": "r213",
+    "origen": "Los Mina",
+    "destino": "Guachupita",
+    "tipo": "carro público",
+    "tiempo": 48,
+    "costo": 40
+  },
+  {
+    "id": "r214",
+    "origen": "Los Mina",
+    "destino": "Guachupita",
+    "tipo": "guagua",
+    "tiempo": 62,
+    "costo": 35
+  },
+  {
+    "id": "r215",
+    "origen": "Los Mina",
+    "destino": "Guachupita",
+    "tipo": "motoconcho",
+    "tiempo": 35,
+    "costo": 215
+  },
+  {
+    "id": "r216",
+    "origen": "Los Mina",
+    "destino": "Guachupita",
+    "tipo": "Uber",
+    "tiempo": 42,
+    "costo": 369
+  },
+  {
+    "id": "r217",
+    "origen": "Los Mina",
+    "destino": "Los Mameyes",
+    "tipo": "carro público",
+    "tiempo": 21,
+    "costo": 40
+  },
+  {
+    "id": "r218",
+    "origen": "Los Mina",
+    "destino": "Los Mameyes",
+    "tipo": "guagua",
+    "tiempo": 28,
+    "costo": 35
+  },
+  {
+    "id": "r219",
+    "origen": "Los Mina",
+    "destino": "Los Mameyes",
+    "tipo": "motoconcho",
+    "tiempo": 15,
+    "costo": 130
+  },
+  {
+    "id": "r220",
+    "origen": "Los Mina",
+    "destino": "Los Mameyes",
+    "tipo": "Uber",
+    "tiempo": 18,
+    "costo": 200
+  },
+  {
+    "id": "r221",
+    "origen": "Villa Mella",
+    "destino": "Los Prados",
+    "tipo": "carro público",
+    "tiempo": 37,
+    "costo": 40
+  },
+  {
+    "id": "r222",
+    "origen": "Villa Mella",
+    "destino": "Los Prados",
+    "tipo": "guagua",
+    "tiempo": 48,
+    "costo": 35
+  },
+  {
+    "id": "r223",
+    "origen": "Villa Mella",
+    "destino": "Los Prados",
+    "tipo": "motoconcho",
+    "tiempo": 27,
+    "costo": 180
+  },
+  {
+    "id": "r224",
+    "origen": "Villa Mella",
+    "destino": "Los Prados",
+    "tipo": "Uber",
+    "tiempo": 32,
+    "costo": 300
+  },
+  {
+    "id": "r225",
+    "origen": "Villa Mella",
+    "destino": "Mirador Norte",
+    "tipo": "carro público",
+    "tiempo": 38,
+    "costo": 40
+  },
+  {
+    "id": "r226",
+    "origen": "Villa Mella",
+    "destino": "Mirador Norte",
+    "tipo": "guagua",
+    "tiempo": 49,
+    "costo": 35
+  },
+  {
+    "id": "r227",
+    "origen": "Villa Mella",
+    "destino": "Mirador Norte",
+    "tipo": "motoconcho",
+    "tiempo": 28,
+    "costo": 183
+  },
+  {
+    "id": "r228",
+    "origen": "Villa Mella",
+    "destino": "Mirador Norte",
+    "tipo": "Uber",
+    "tiempo": 33,
+    "costo": 306
+  },
+  {
+    "id": "r229",
+    "origen": "Villa Mella",
+    "destino": "Bella Vista",
+    "tipo": "carro público",
+    "tiempo": 29,
+    "costo": 40
+  },
+  {
+    "id": "r230",
+    "origen": "Villa Mella",
+    "destino": "Bella Vista",
+    "tipo": "guagua",
+    "tiempo": 38,
+    "costo": 35
+  },
+  {
+    "id": "r231",
+    "origen": "Villa Mella",
+    "destino": "Bella Vista",
+    "tipo": "motoconcho",
+    "tiempo": 21,
+    "costo": 155
+  },
+  {
+    "id": "r232",
+    "origen": "Villa Mella",
+    "destino": "Bella Vista",
+    "tipo": "Uber",
+    "tiempo": 25,
+    "costo": 250
+  },
+  {
+    "id": "r233",
+    "origen": "Villa Mella",
+    "destino": "Villa Francisca",
+    "tipo": "carro público",
+    "tiempo": 48,
+    "costo": 40
+  },
+  {
+    "id": "r234",
+    "origen": "Villa Mella",
+    "destino": "Villa Francisca",
+    "tipo": "guagua",
+    "tiempo": 62,
+    "costo": 35
+  },
+  {
+    "id": "r235",
+    "origen": "Villa Mella",
+    "destino": "Villa Francisca",
+    "tipo": "motoconcho",
+    "tiempo": 35,
+    "costo": 215
+  },
+  {
+    "id": "r236",
+    "origen": "Villa Mella",
+    "destino": "Villa Francisca",
+    "tipo": "Uber",
+    "tiempo": 42,
+    "costo": 369
+  },
+  {
+    "id": "r237",
+    "origen": "Villa Mella",
+    "destino": "Villa María",
+    "tipo": "carro público",
+    "tiempo": 46,
+    "costo": 40
+  },
+  {
+    "id": "r238",
+    "origen": "Villa Mella",
+    "destino": "Villa María",
+    "tipo": "guagua",
+    "tiempo": 59,
+    "costo": 35
+  },
+  {
+    "id": "r239",
+    "origen": "Villa Mella",
+    "destino": "Villa María",
+    "tipo": "motoconcho",
+    "tiempo": 34,
+    "costo": 207
+  },
+  {
+    "id": "r240",
+    "origen": "Villa Mella",
+    "destino": "Villa María",
+    "tipo": "Uber",
+    "tiempo": 40,
+    "costo": 355
+  },
+  {
+    "id": "r241",
+    "origen": "Villa Mella",
+    "destino": "Villa Duarte",
+    "tipo": "carro público",
+    "tiempo": 21,
+    "costo": 40
+  },
+  {
+    "id": "r242",
+    "origen": "Villa Mella",
+    "destino": "Villa Duarte",
+    "tipo": "guagua",
+    "tiempo": 28,
+    "costo": 35
+  },
+  {
+    "id": "r243",
+    "origen": "Villa Mella",
+    "destino": "Villa Duarte",
+    "tipo": "motoconcho",
+    "tiempo": 15,
+    "costo": 130
+  },
+  {
+    "id": "r244",
+    "origen": "Villa Mella",
+    "destino": "Villa Duarte",
+    "tipo": "Uber",
+    "tiempo": 18,
+    "costo": 200
+  },
+  {
+    "id": "r245",
+    "origen": "Villa Mella",
+    "destino": "Guachupita",
+    "tipo": "carro público",
+    "tiempo": 38,
+    "costo": 40
+  },
+  {
+    "id": "r246",
+    "origen": "Villa Mella",
+    "destino": "Guachupita",
+    "tipo": "guagua",
+    "tiempo": 49,
+    "costo": 35
+  },
+  {
+    "id": "r247",
+    "origen": "Villa Mella",
+    "destino": "Guachupita",
+    "tipo": "motoconcho",
+    "tiempo": 28,
+    "costo": 183
+  },
+  {
+    "id": "r248",
+    "origen": "Villa Mella",
+    "destino": "Guachupita",
+    "tipo": "Uber",
+    "tiempo": 33,
+    "costo": 306
+  },
+  {
+    "id": "r249",
+    "origen": "Villa Mella",
+    "destino": "Los Mameyes",
+    "tipo": "carro público",
+    "tiempo": 16,
+    "costo": 40
+  },
+  {
+    "id": "r250",
+    "origen": "Villa Mella",
+    "destino": "Los Mameyes",
+    "tipo": "guagua",
+    "tiempo": 22,
+    "costo": 35
+  },
+  {
+    "id": "r251",
+    "origen": "Villa Mella",
+    "destino": "Los Mameyes",
+    "tipo": "motoconcho",
+    "tiempo": 11,
+    "costo": 115
+  },
+  {
+    "id": "r252",
+    "origen": "Villa Mella",
+    "destino": "Los Mameyes",
+    "tipo": "Uber",
+    "tiempo": 14,
+    "costo": 171
+  },
+  {
+    "id": "r253",
+    "origen": "Los Prados",
+    "destino": "Mirador Norte",
+    "tipo": "carro público",
+    "tiempo": 12,
+    "costo": 40
+  },
+  {
+    "id": "r254",
+    "origen": "Los Prados",
+    "destino": "Mirador Norte",
+    "tipo": "guagua",
+    "tiempo": 17,
+    "costo": 35
+  },
+  {
+    "id": "r255",
+    "origen": "Los Prados",
+    "destino": "Mirador Norte",
+    "tipo": "motoconcho",
+    "tiempo": 9,
+    "costo": 94
+  },
+  {
+    "id": "r256",
+    "origen": "Los Prados",
+    "destino": "Mirador Norte",
+    "tipo": "Uber",
+    "tiempo": 11,
+    "costo": 135
+  },
+  {
+    "id": "r257",
+    "origen": "Los Prados",
+    "destino": "Bella Vista",
+    "tipo": "carro público",
+    "tiempo": 12,
+    "costo": 40
+  },
+  {
+    "id": "r258",
+    "origen": "Los Prados",
+    "destino": "Bella Vista",
+    "tipo": "guagua",
+    "tiempo": 17,
+    "costo": 35
+  },
+  {
+    "id": "r259",
+    "origen": "Los Prados",
+    "destino": "Bella Vista",
+    "tipo": "motoconcho",
+    "tiempo": 9,
+    "costo": 94
+  },
+  {
+    "id": "r260",
+    "origen": "Los Prados",
+    "destino": "Bella Vista",
+    "tipo": "Uber",
+    "tiempo": 11,
+    "costo": 135
+  },
+  {
+    "id": "r261",
+    "origen": "Los Prados",
+    "destino": "Villa Francisca",
+    "tipo": "carro público",
+    "tiempo": 23,
+    "costo": 40
+  },
+  {
+    "id": "r262",
+    "origen": "Los Prados",
+    "destino": "Villa Francisca",
+    "tipo": "guagua",
+    "tiempo": 30,
+    "costo": 35
+  },
+  {
+    "id": "r263",
+    "origen": "Los Prados",
+    "destino": "Villa Francisca",
+    "tipo": "motoconcho",
+    "tiempo": 16,
+    "costo": 136
+  },
+  {
+    "id": "r264",
+    "origen": "Los Prados",
+    "destino": "Villa Francisca",
+    "tipo": "Uber",
+    "tiempo": 20,
+    "costo": 212
+  },
+  {
+    "id": "r265",
+    "origen": "Los Prados",
+    "destino": "Villa María",
+    "tipo": "carro público",
+    "tiempo": 16,
+    "costo": 40
+  },
+  {
+    "id": "r266",
+    "origen": "Los Prados",
+    "destino": "Villa María",
+    "tipo": "guagua",
+    "tiempo": 22,
+    "costo": 35
+  },
+  {
+    "id": "r267",
+    "origen": "Los Prados",
+    "destino": "Villa María",
+    "tipo": "motoconcho",
+    "tiempo": 11,
+    "costo": 115
+  },
+  {
+    "id": "r268",
+    "origen": "Los Prados",
+    "destino": "Villa María",
+    "tipo": "Uber",
+    "tiempo": 14,
+    "costo": 171
+  },
+  {
+    "id": "r269",
+    "origen": "Los Prados",
+    "destino": "Villa Duarte",
+    "tipo": "carro público",
+    "tiempo": 41,
+    "costo": 40
+  },
+  {
+    "id": "r270",
+    "origen": "Los Prados",
+    "destino": "Villa Duarte",
+    "tipo": "guagua",
+    "tiempo": 53,
+    "costo": 35
+  },
+  {
+    "id": "r271",
+    "origen": "Los Prados",
+    "destino": "Villa Duarte",
+    "tipo": "motoconcho",
+    "tiempo": 30,
+    "costo": 192
+  },
+  {
+    "id": "r272",
+    "origen": "Los Prados",
+    "destino": "Villa Duarte",
+    "tipo": "Uber",
+    "tiempo": 35,
+    "costo": 324
+  },
+  {
+    "id": "r273",
+    "origen": "Los Prados",
+    "destino": "Guachupita",
+    "tipo": "carro público",
+    "tiempo": 12,
+    "costo": 40
+  },
+  {
+    "id": "r274",
+    "origen": "Los Prados",
+    "destino": "Guachupita",
+    "tipo": "guagua",
+    "tiempo": 17,
+    "costo": 35
+  },
+  {
+    "id": "r275",
+    "origen": "Los Prados",
+    "destino": "Guachupita",
+    "tipo": "motoconcho",
+    "tiempo": 9,
+    "costo": 94
+  },
+  {
+    "id": "r276",
+    "origen": "Los Prados",
+    "destino": "Guachupita",
+    "tipo": "Uber",
+    "tiempo": 11,
+    "costo": 135
+  },
+  {
+    "id": "r277",
+    "origen": "Los Prados",
+    "destino": "Los Mameyes",
+    "tipo": "carro público",
+    "tiempo": 46,
+    "costo": 40
+  },
+  {
+    "id": "r278",
+    "origen": "Los Prados",
+    "destino": "Los Mameyes",
+    "tipo": "guagua",
+    "tiempo": 59,
+    "costo": 35
+  },
+  {
+    "id": "r279",
+    "origen": "Los Prados",
+    "destino": "Los Mameyes",
+    "tipo": "motoconcho",
+    "tiempo": 34,
+    "costo": 207
+  },
+  {
+    "id": "r280",
+    "origen": "Los Prados",
+    "destino": "Los Mameyes",
+    "tipo": "Uber",
+    "tiempo": 40,
+    "costo": 355
+  },
+  {
+    "id": "r281",
+    "origen": "Mirador Norte",
+    "destino": "Bella Vista",
+    "tipo": "carro público",
+    "tiempo": 16,
+    "costo": 40
+  },
+  {
+    "id": "r282",
+    "origen": "Mirador Norte",
+    "destino": "Bella Vista",
+    "tipo": "guagua",
+    "tiempo": 22,
+    "costo": 35
+  },
+  {
+    "id": "r283",
+    "origen": "Mirador Norte",
+    "destino": "Bella Vista",
+    "tipo": "motoconcho",
+    "tiempo": 11,
+    "costo": 115
+  },
+  {
+    "id": "r284",
+    "origen": "Mirador Norte",
+    "destino": "Bella Vista",
+    "tipo": "Uber",
+    "tiempo": 14,
+    "costo": 171
+  },
+  {
+    "id": "r285",
+    "origen": "Mirador Norte",
+    "destino": "Villa Francisca",
+    "tipo": "carro público",
+    "tiempo": 30,
+    "costo": 40
+  },
+  {
+    "id": "r286",
+    "origen": "Mirador Norte",
+    "destino": "Villa Francisca",
+    "tipo": "guagua",
+    "tiempo": 40,
+    "costo": 35
+  },
+  {
+    "id": "r287",
+    "origen": "Mirador Norte",
+    "destino": "Villa Francisca",
+    "tipo": "motoconcho",
+    "tiempo": 22,
+    "costo": 159
+  },
+  {
+    "id": "r288",
+    "origen": "Mirador Norte",
+    "destino": "Villa Francisca",
+    "tipo": "Uber",
+    "tiempo": 26,
+    "costo": 258
+  },
+  {
+    "id": "r289",
+    "origen": "Mirador Norte",
+    "destino": "Villa María",
+    "tipo": "carro público",
+    "tiempo": 23,
+    "costo": 40
+  },
+  {
+    "id": "r290",
+    "origen": "Mirador Norte",
+    "destino": "Villa María",
+    "tipo": "guagua",
+    "tiempo": 30,
+    "costo": 35
+  },
+  {
+    "id": "r291",
+    "origen": "Mirador Norte",
+    "destino": "Villa María",
+    "tipo": "motoconcho",
+    "tiempo": 16,
+    "costo": 136
+  },
+  {
+    "id": "r292",
+    "origen": "Mirador Norte",
+    "destino": "Villa María",
+    "tipo": "Uber",
+    "tiempo": 20,
+    "costo": 212
+  },
+  {
+    "id": "r293",
+    "origen": "Mirador Norte",
+    "destino": "Villa Duarte",
+    "tipo": "carro público",
+    "tiempo": 38,
+    "costo": 40
+  },
+  {
+    "id": "r294",
+    "origen": "Mirador Norte",
+    "destino": "Villa Duarte",
+    "tipo": "guagua",
+    "tiempo": 49,
+    "costo": 35
+  },
+  {
+    "id": "r295",
+    "origen": "Mirador Norte",
+    "destino": "Villa Duarte",
+    "tipo": "motoconcho",
+    "tiempo": 28,
+    "costo": 183
+  },
+  {
+    "id": "r296",
+    "origen": "Mirador Norte",
+    "destino": "Villa Duarte",
+    "tipo": "Uber",
+    "tiempo": 33,
+    "costo": 306
+  },
+  {
+    "id": "r297",
+    "origen": "Mirador Norte",
+    "destino": "Guachupita",
+    "tipo": "carro público",
+    "tiempo": 21,
+    "costo": 40
+  },
+  {
+    "id": "r298",
+    "origen": "Mirador Norte",
+    "destino": "Guachupita",
+    "tipo": "guagua",
+    "tiempo": 28,
+    "costo": 35
+  },
+  {
+    "id": "r299",
+    "origen": "Mirador Norte",
+    "destino": "Guachupita",
+    "tipo": "motoconcho",
+    "tiempo": 15,
+    "costo": 130
+  },
+  {
+    "id": "r300",
+    "origen": "Mirador Norte",
+    "destino": "Guachupita",
+    "tipo": "Uber",
+    "tiempo": 18,
+    "costo": 200
+  },
+  {
+    "id": "r301",
+    "origen": "Mirador Norte",
+    "destino": "Los Mameyes",
+    "tipo": "carro público",
+    "tiempo": 48,
+    "costo": 40
+  },
+  {
+    "id": "r302",
+    "origen": "Mirador Norte",
+    "destino": "Los Mameyes",
+    "tipo": "guagua",
+    "tiempo": 62,
+    "costo": 35
+  },
+  {
+    "id": "r303",
+    "origen": "Mirador Norte",
+    "destino": "Los Mameyes",
+    "tipo": "motoconcho",
+    "tiempo": 35,
+    "costo": 215
+  },
+  {
+    "id": "r304",
+    "origen": "Mirador Norte",
+    "destino": "Los Mameyes",
+    "tipo": "Uber",
+    "tiempo": 42,
+    "costo": 369
+  },
+  {
+    "id": "r305",
+    "origen": "Bella Vista",
+    "destino": "Villa Francisca",
+    "tipo": "carro público",
+    "tiempo": 28,
+    "costo": 40
+  },
+  {
+    "id": "r306",
+    "origen": "Bella Vista",
+    "destino": "Villa Francisca",
+    "tipo": "guagua",
+    "tiempo": 36,
+    "costo": 35
+  },
+  {
+    "id": "r307",
+    "origen": "Bella Vista",
+    "destino": "Villa Francisca",
+    "tipo": "motoconcho",
+    "tiempo": 20,
+    "costo": 151
+  },
+  {
+    "id": "r308",
+    "origen": "Bella Vista",
+    "destino": "Villa Francisca",
+    "tipo": "Uber",
+    "tiempo": 24,
+    "costo": 241
+  },
+  {
+    "id": "r309",
+    "origen": "Bella Vista",
+    "destino": "Villa María",
+    "tipo": "carro público",
+    "tiempo": 23,
+    "costo": 40
+  },
+  {
+    "id": "r310",
+    "origen": "Bella Vista",
+    "destino": "Villa María",
+    "tipo": "guagua",
+    "tiempo": 30,
+    "costo": 35
+  },
+  {
+    "id": "r311",
+    "origen": "Bella Vista",
+    "destino": "Villa María",
+    "tipo": "motoconcho",
+    "tiempo": 16,
+    "costo": 136
+  },
+  {
+    "id": "r312",
+    "origen": "Bella Vista",
+    "destino": "Villa María",
+    "tipo": "Uber",
+    "tiempo": 20,
+    "costo": 212
+  },
+  {
+    "id": "r313",
+    "origen": "Bella Vista",
+    "destino": "Villa Duarte",
+    "tipo": "carro público",
+    "tiempo": 34,
+    "costo": 40
+  },
+  {
+    "id": "r314",
+    "origen": "Bella Vista",
+    "destino": "Villa Duarte",
+    "tipo": "guagua",
+    "tiempo": 44,
+    "costo": 35
+  },
+  {
+    "id": "r315",
+    "origen": "Bella Vista",
+    "destino": "Villa Duarte",
+    "tipo": "motoconcho",
+    "tiempo": 25,
+    "costo": 170
+  },
+  {
+    "id": "r316",
+    "origen": "Bella Vista",
+    "destino": "Villa Duarte",
+    "tipo": "Uber",
+    "tiempo": 29,
+    "costo": 280
+  },
+  {
+    "id": "r317",
+    "origen": "Bella Vista",
+    "destino": "Guachupita",
+    "tipo": "carro público",
+    "tiempo": 16,
+    "costo": 40
+  },
+  {
+    "id": "r318",
+    "origen": "Bella Vista",
+    "destino": "Guachupita",
+    "tipo": "guagua",
+    "tiempo": 22,
+    "costo": 35
+  },
+  {
+    "id": "r319",
+    "origen": "Bella Vista",
+    "destino": "Guachupita",
+    "tipo": "motoconcho",
+    "tiempo": 11,
+    "costo": 115
+  },
+  {
+    "id": "r320",
+    "origen": "Bella Vista",
+    "destino": "Guachupita",
+    "tipo": "Uber",
+    "tiempo": 14,
+    "costo": 171
+  },
+  {
+    "id": "r321",
+    "origen": "Bella Vista",
+    "destino": "Los Mameyes",
+    "tipo": "carro público",
+    "tiempo": 38,
+    "costo": 40
+  },
+  {
+    "id": "r322",
+    "origen": "Bella Vista",
+    "destino": "Los Mameyes",
+    "tipo": "guagua",
+    "tiempo": 49,
+    "costo": 35
+  },
+  {
+    "id": "r323",
+    "origen": "Bella Vista",
+    "destino": "Los Mameyes",
+    "tipo": "motoconcho",
+    "tiempo": 28,
+    "costo": 183
+  },
+  {
+    "id": "r324",
+    "origen": "Bella Vista",
+    "destino": "Los Mameyes",
+    "tipo": "Uber",
+    "tiempo": 33,
+    "costo": 306
+  },
+  {
+    "id": "r325",
+    "origen": "Villa Francisca",
+    "destino": "Villa María",
+    "tipo": "carro público",
+    "tiempo": 12,
+    "costo": 40
+  },
+  {
+    "id": "r326",
+    "origen": "Villa Francisca",
+    "destino": "Villa María",
+    "tipo": "guagua",
+    "tiempo": 17,
+    "costo": 35
+  },
+  {
+    "id": "r327",
+    "origen": "Villa Francisca",
+    "destino": "Villa María",
+    "tipo": "motoconcho",
+    "tiempo": 9,
+    "costo": 94
+  },
+  {
+    "id": "r328",
+    "origen": "Villa Francisca",
+    "destino": "Villa María",
+    "tipo": "Uber",
+    "tiempo": 11,
+    "costo": 135
+  },
+  {
+    "id": "r329",
+    "origen": "Villa Francisca",
+    "destino": "Villa Duarte",
+    "tipo": "carro público",
+    "tiempo": 56,
+    "costo": 40
+  },
+  {
+    "id": "r330",
+    "origen": "Villa Francisca",
+    "destino": "Villa Duarte",
+    "tipo": "guagua",
+    "tiempo": 72,
+    "costo": 35
+  },
+  {
+    "id": "r331",
+    "origen": "Villa Francisca",
+    "destino": "Villa Duarte",
+    "tipo": "motoconcho",
+    "tiempo": 41,
+    "costo": 240
+  },
+  {
+    "id": "r332",
+    "origen": "Villa Francisca",
+    "destino": "Villa Duarte",
+    "tipo": "Uber",
+    "tiempo": 49,
+    "costo": 420
+  },
+  {
+    "id": "r333",
+    "origen": "Villa Francisca",
+    "destino": "Guachupita",
+    "tipo": "carro público",
+    "tiempo": 16,
+    "costo": 40
+  },
+  {
+    "id": "r334",
+    "origen": "Villa Francisca",
+    "destino": "Guachupita",
+    "tipo": "guagua",
+    "tiempo": 22,
+    "costo": 35
+  },
+  {
+    "id": "r335",
+    "origen": "Villa Francisca",
+    "destino": "Guachupita",
+    "tipo": "motoconcho",
+    "tiempo": 11,
+    "costo": 115
+  },
+  {
+    "id": "r336",
+    "origen": "Villa Francisca",
+    "destino": "Guachupita",
+    "tipo": "Uber",
+    "tiempo": 14,
+    "costo": 171
+  },
+  {
+    "id": "r337",
+    "origen": "Villa Francisca",
+    "destino": "Los Mameyes",
+    "tipo": "carro público",
+    "tiempo": 54,
+    "costo": 40
+  },
+  {
+    "id": "r338",
+    "origen": "Villa Francisca",
+    "destino": "Los Mameyes",
+    "tipo": "guagua",
+    "tiempo": 69,
+    "costo": 35
+  },
+  {
+    "id": "r339",
+    "origen": "Villa Francisca",
+    "destino": "Los Mameyes",
+    "tipo": "motoconcho",
+    "tiempo": 39,
+    "costo": 232
+  },
+  {
+    "id": "r340",
+    "origen": "Villa Francisca",
+    "destino": "Los Mameyes",
+    "tipo": "Uber",
+    "tiempo": 47,
+    "costo": 404
+  },
+  {
+    "id": "r341",
+    "origen": "Villa María",
+    "destino": "Villa Duarte",
+    "tipo": "carro público",
+    "tiempo": 52,
+    "costo": 40
+  },
+  {
+    "id": "r342",
+    "origen": "Villa María",
+    "destino": "Villa Duarte",
+    "tipo": "guagua",
+    "tiempo": 66,
+    "costo": 35
+  },
+  {
+    "id": "r343",
+    "origen": "Villa María",
+    "destino": "Villa Duarte",
+    "tipo": "motoconcho",
+    "tiempo": 38,
+    "costo": 226
+  },
+  {
+    "id": "r344",
+    "origen": "Villa María",
+    "destino": "Villa Duarte",
+    "tipo": "Uber",
+    "tiempo": 45,
+    "costo": 392
+  },
+  {
+    "id": "r345",
+    "origen": "Villa María",
+    "destino": "Guachupita",
+    "tipo": "carro público",
+    "tiempo": 12,
+    "costo": 40
+  },
+  {
+    "id": "r346",
+    "origen": "Villa María",
+    "destino": "Guachupita",
+    "tipo": "guagua",
+    "tiempo": 17,
+    "costo": 35
+  },
+  {
+    "id": "r347",
+    "origen": "Villa María",
+    "destino": "Guachupita",
+    "tipo": "motoconcho",
+    "tiempo": 9,
+    "costo": 94
+  },
+  {
+    "id": "r348",
+    "origen": "Villa María",
+    "destino": "Guachupita",
+    "tipo": "Uber",
+    "tiempo": 11,
+    "costo": 135
+  },
+  {
+    "id": "r349",
+    "origen": "Villa María",
+    "destino": "Los Mameyes",
+    "tipo": "carro público",
+    "tiempo": 53,
+    "costo": 40
+  },
+  {
+    "id": "r350",
+    "origen": "Villa María",
+    "destino": "Los Mameyes",
+    "tipo": "guagua",
+    "tiempo": 68,
+    "costo": 35
+  },
+  {
+    "id": "r351",
+    "origen": "Villa María",
+    "destino": "Los Mameyes",
+    "tipo": "motoconcho",
+    "tiempo": 39,
+    "costo": 230
+  },
+  {
+    "id": "r352",
+    "origen": "Villa María",
+    "destino": "Los Mameyes",
+    "tipo": "Uber",
+    "tiempo": 46,
+    "costo": 400
+  },
+  {
+    "id": "r353",
+    "origen": "Villa Duarte",
+    "destino": "Guachupita",
+    "tipo": "carro público",
+    "tiempo": 45,
+    "costo": 40
+  },
+  {
+    "id": "r354",
+    "origen": "Villa Duarte",
+    "destino": "Guachupita",
+    "tipo": "guagua",
+    "tiempo": 58,
+    "costo": 35
+  },
+  {
+    "id": "r355",
+    "origen": "Villa Duarte",
+    "destino": "Guachupita",
+    "tipo": "motoconcho",
+    "tiempo": 33,
+    "costo": 205
+  },
+  {
+    "id": "r356",
+    "origen": "Villa Duarte",
+    "destino": "Guachupita",
+    "tipo": "Uber",
+    "tiempo": 39,
+    "costo": 350
+  },
+  {
+    "id": "r357",
+    "origen": "Villa Duarte",
+    "destino": "Los Mameyes",
+    "tipo": "carro público",
+    "tiempo": 30,
+    "costo": 40
+  },
+  {
+    "id": "r358",
+    "origen": "Villa Duarte",
+    "destino": "Los Mameyes",
+    "tipo": "guagua",
+    "tiempo": 40,
+    "costo": 35
+  },
+  {
+    "id": "r359",
+    "origen": "Villa Duarte",
+    "destino": "Los Mameyes",
+    "tipo": "motoconcho",
+    "tiempo": 22,
+    "costo": 159
+  },
+  {
+    "id": "r360",
+    "origen": "Villa Duarte",
+    "destino": "Los Mameyes",
+    "tipo": "Uber",
+    "tiempo": 26,
+    "costo": 258
+  },
+  {
+    "id": "r361",
+    "origen": "Guachupita",
+    "destino": "Los Mameyes",
+    "tipo": "carro público",
+    "tiempo": 45,
+    "costo": 40
+  },
+  {
+    "id": "r362",
+    "origen": "Guachupita",
+    "destino": "Los Mameyes",
+    "tipo": "guagua",
+    "tiempo": 58,
+    "costo": 35
+  },
+  {
+    "id": "r363",
+    "origen": "Guachupita",
+    "destino": "Los Mameyes",
+    "tipo": "motoconcho",
+    "tiempo": 33,
+    "costo": 205
+  },
+  {
+    "id": "r364",
+    "origen": "Guachupita",
+    "destino": "Los Mameyes",
+    "tipo": "Uber",
+    "tiempo": 39,
+    "costo": 350
+  }
+]
