@@ -26,7 +26,7 @@ window.addEventListener('DOMContentLoaded', async () => {
     applyLang();
     applyTheme();
 
-    // Eventos (Asegúrate de que los IDs coincidan con el HTML)
+    // Eventos (con operador opcional por seguridad)
     $('searchForm')?.addEventListener('submit', handleSearch);
     $('swapBtn')?.addEventListener('click', swapInputs);
     $('langBtn')?.addEventListener('click', toggleLang);
@@ -42,7 +42,6 @@ window.addEventListener('DOMContentLoaded', async () => {
 
 // ---------- CARGA DE DATOS ----------
 async function loadData() {
-  // Verificación de ruta: 'data/archivo.json'
   const [barrios, rutas, alerts, dict] = await Promise.all([
     fetch('data/barrios.json').then(r => r.ok ? r.json() : []),
     fetch('data/rutas.json').then(r => r.ok ? r.json() : []),
@@ -93,21 +92,18 @@ function renderFavs() {
   `).join('');
 }
 
-// ---------- LÓGICA DE NEGOCIO ----------
-function handleSearch(e) {
-  e.preventDefault();
-  const o = $('origen').value.trim();
-  const d = $('destino').value.trim();
-
-  if (!o || !d) return;
-  if (o === d) {
-    $('estimations').innerHTML = `<p class="error">El origen y destino son iguales.</p>`;
-    return;
-  }
-
-  renderMinimap(o, d);
-  const resultados = state.rutas.filter(r => r.origen === o && r.destino === d);
-  renderRutas(resultados, o, d);
+function renderMinimap(origen, destino) {
+  const map = $('minimap');
+  if (!map) return;
+  map.innerHTML = `
+    <svg viewBox="0 0 200 100" width="100%" height="100%">
+      <circle cx="30" cy="50" r="6" fill="#0b79f7"></circle>
+      <text x="10" y="80" font-size="10" fill="currentColor">${origen}</text>
+      <circle cx="170" cy="50" r="6" fill="#0b79f7"></circle>
+      <text x="140" y="80" font-size="10" fill="currentColor">${destino}</text>
+      <line x1="36" y1="50" x2="164" y2="50" stroke="#4da3ff" stroke-width="2" stroke-dasharray="4"/>
+    </svg>
+  `;
 }
 
 function renderRutas(rutas, o, d) {
@@ -131,21 +127,23 @@ function renderRutas(rutas, o, d) {
   `).join('');
 }
 
-function renderMinimap(origen, destino) {
-  const map = $('minimap');
-  if (!map) return;
-  map.innerHTML = `
-    <svg viewBox="0 0 200 100" width="100%" height="100%">
-      <circle cx="30" cy="50" r="6" fill="#0b79f7"></circle>
-      <text x="10" y="80" font-size="10" fill="currentColor">${origen}</text>
-      <circle cx="170" cy="50" r="6" fill="#0b79f7"></circle>
-      <text x="140" y="80" font-size="10" fill="currentColor">${destino}</text>
-      <line x1="36" y1="50" x2="164" y2="50" stroke="#4da3ff" stroke-width="2" stroke-dasharray="4"/>
-    </svg>
-  `;
+// ---------- LÓGICA DE NEGOCIO ----------
+function handleSearch(e) {
+  e.preventDefault();
+  const o = $('origen').value.trim();
+  const d = $('destino').value.trim();
+
+  if (!o || !d) return;
+  if (o === d) {
+    $('estimations').innerHTML = `<p class="error">El origen y destino son iguales.</p>`;
+    return;
+  }
+
+  renderMinimap(o, d);
+  const resultados = state.rutas.filter(r => r.origen === o && r.destino === d);
+  renderRutas(resultados, o, d);
 }
 
-// ---------- UTILIDADES ----------
 function swapInputs() {
   const o = $('origen'), d = $('destino');
   [o.value, d.value] = [d.value, o.value];
@@ -164,6 +162,7 @@ function removeFav(id) {
   renderFavs();
 }
 
+// ---------- CONFIGURACIONES ----------
 function toggleLang() {
   state.lang = state.lang === 'es' ? 'en' : 'es';
   localStorage.setItem('lang', state.lang);
@@ -202,7 +201,7 @@ function toggleLowData() {
 async function registerSW() {
   if ('serviceWorker' in navigator) {
     try { await navigator.serviceWorker.register('service-worker.js'); } 
-    catch (e) { console.warn('SW error'); }
+    catch (e) { console.warn('SW no se pudo registrar:', e); }
   }
 }
 
