@@ -16,7 +16,6 @@
   --logo-gradient: linear-gradient(135deg, var(--accent), #0bb); 
 
   /* VARIABLES ADICIONALES PARA ALERTAS */
-  /* Se usan para definir el fondo y el borde de las alertas*/
   --alert-bg: color-mix(in srgb, #fff 90%, var(--accent) 10%); 
   --alert-border: color-mix(in srgb, var(--accent) 20%, transparent); 
 }
@@ -263,15 +262,13 @@ label { font-size:.9rem; color:var(--muted); }
 .fav[aria-pressed="true"] { transform: scale(1.15); }
 
 /* ALERTAS (adaptables) */
-/* Las alertas usan las variables --alert-bg y --alert-border
-   para adaptar automaticamente su color según el tema (claro u oscuro)*/
 .alert {
-  padding:.5rem;
-  border-radius:8px;
-  background: var(--alert-bg);              /* Fondo adaptable */
-  border: 1px solid var(--alert-border);    /* Borde suave con el color acento */
-  color: color-contrast(var(--fg) vs var(--card)); /* Texto con contraste adecuado */
-  margin-bottom:.5rem;
+  padding: .5rem;
+  border-radius: 8px;
+  background: var(--alert-bg);             /* Fondo adaptable */
+  border: 1px solid var(--alert-border);   /* Borde suave con el color acento */
+  color: var(--fg);                        /* Corrección de contraste aquí */
+  margin-bottom: .5rem;
 }
 
 /* Ejemplos de variaciones de alerta */
